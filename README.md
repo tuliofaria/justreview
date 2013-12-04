@@ -1,5 +1,4 @@
-JustReview
-==========
+![JustReview](https://rawgithub.com/tuliofaria/justreview/master/logo.png)
 
 Ferramentas para auxiliar o trabalho de revisar sistematicamente sobre um determinado assunto.
 
