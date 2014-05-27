@@ -11,6 +11,10 @@ O JustReview foi desenvolvido durante as aulas de Metodologia da Pesquisa do Cur
 
 ## Executando os scripts: ##
 
+### Pré-requisitos: ###
+
+Instalar o CasperJS (www.casperjs.org), e verificar se o mesmo está no PATH do sistema (o CasperJS possui dependência com o PhantomJS, deve-se verificar se o mesmo também está instalado).
+
 ### Para baixar os PDFs: ###
 
 - Baixar PDFs da IEEE (executar no shell do linux ou prompt do windows):
